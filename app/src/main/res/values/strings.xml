@@ -27,4 +27,14 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+    <string name="One">এক</string>
+    <string name="Two">দুই</string>
+    <string name="Three">তিন</string>
+    <string name="Four">চার</string>
+    <string name="Five">পাঁচ</string>
+    <string name="Six">ছয়</string>
+    <string name="Seven">সাত</string>
+    <string name="Eight">আট</string>
+    <string name="Nine">নয়</string>
+    <string name="Ten">দশ</string>
 </resources>
